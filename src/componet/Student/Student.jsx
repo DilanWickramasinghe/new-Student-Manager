@@ -12,7 +12,7 @@ export default function Student () {
 
     const submit = () => {
 
-        //Passing 
+        
         const newStudent = {
             id : student.length,
             newName : name,
